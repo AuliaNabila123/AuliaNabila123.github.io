@@ -1,0 +1,32 @@
+body{
+    background-color: aliceblue;
+    background-image: url(bg1.png);
+}
+h1{
+    color:#7d5a50 ;
+}
+h2{
+    color:#495371;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align:center;
+    border: 2px solid #22577E;
+    background: #B7CADB;
+    color: black;
+    box-decoration-break: clone;
+    box-shadow: 1px 2px 2px ;
+    border-radius: 10px;
+    padding: 5px 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+.left-div{
+    width: auto;
+    display: inline-block;
+}
+.right-div{
+    display: inline-block;
+}
